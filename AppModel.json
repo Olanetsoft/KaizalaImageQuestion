@@ -1,0 +1,19 @@
+{ 
+    "questions": [{ 
+            "title": "Rating", 
+            "type": "Numeric" 
+        }, 
+        { 
+            "title": "Comments", 
+            "type": "Text" 
+        },
+        { 
+            "title": "Image", 
+            "type": "Image" 
+        }
+    ], 
+    "title": "April 7, 2019 Conference", 
+    "visibility": "All", 
+    "isAnonymous": false, 
+    "isResponseAppended": false 
+}
